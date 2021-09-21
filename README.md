@@ -1,0 +1,2 @@
+# leetcode-learner-extension
+Personal project to create a web browser (chrome specific to start) extension for Leetcode.com. My intension for this is to allow the user to hide difficulty and enable an adjustable timer for them to accurately test their self without added stress. After completion the extension will ask the user if the solution was accepted or rejected, as well as a difficulty ranking.
